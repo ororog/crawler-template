@@ -1,0 +1,18 @@
+{
+  "name": "crawler-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ororog/sbi/issues"
+  },
+  "homepage": "https://github.com/ororog/sbi#readme",
+  "dependencies": {
+    "serverless": "^1.63.0"
+  }
+}
